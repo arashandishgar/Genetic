@@ -1,0 +1,706 @@
+pay attentoin fitness in crossOver and mutation is Fake because during this process fitness is not calculated 
+in reapeatCount : 5
+numRemainInNaturalSelection : 30
+repeatTime : 17
+ 
+ 
+ 
+repeat time : 0
+ 
+fitness index : 0  y : 39.0  x : 26
+fitness index : 1  y : 15.0  x : 30
+fitness index : 2  y : 61.75  x : 13
+fitness index : 3  y : 7.75  x : 1
+fitness index : 4  y : 33.75  x : 5
+fitness index : 5  y : 0.0  x : 32
+ 
+terminate index : 0  y : 61.75  x : 13
+terminate index : 1  y : 39.0  x : 26
+terminate index : 2  y : 33.75  x : 5
+terminate index : 3  y : 15.0  x : 30
+terminate index : 4  y : 7.75  x : 1
+terminate index : 5  y : 0.0  x : 32
+ 
+ 
+goal test y : 61.75 x : 13
+ 
+naturalSelection index : 0  y : 61.75  x : 13
+naturalSelection index : 1  y : 39.0  x : 26
+naturalSelection index : 2  y : 33.75  x : 5
+naturalSelection index : 3  y : 15.0  x : 30
+naturalSelection index : 4  y : 7.75  x : 1
+naturalSelection index : 5  y : 0.0  x : 32
+ 
+crossOver index : 0  y : 61.75  x : 13
+crossOver index : 1  y : 39.0  x : 26
+crossOver index : 2  y : 33.75  x : 5
+crossOver index : 3  y : 15.0  x : 30
+crossOver index : 4  y : 7.75  x : 1
+crossOver index : 5  y : 0.0  x : 32
+ 
+mutation index : 0  y : 61.75  x : 12
+mutation index : 1  y : 39.0  x : 11
+mutation index : 2  y : 33.75  x : 5
+mutation index : 3  y : 15.0  x : 28
+mutation index : 4  y : 7.75  x : 1
+mutation index : 5  y : 0.0  x : 2
+ 
+repeat time : 1
+ 
+fitness index : 0  y : 60.0  x : 12
+fitness index : 1  y : 57.75  x : 11
+fitness index : 2  y : 33.75  x : 5
+fitness index : 3  y : 28.0  x : 28
+fitness index : 4  y : 7.75  x : 1
+fitness index : 5  y : 15.0  x : 2
+ 
+terminate index : 0  y : 60.0  x : 12
+terminate index : 1  y : 57.75  x : 11
+terminate index : 2  y : 33.75  x : 5
+terminate index : 3  y : 28.0  x : 28
+terminate index : 4  y : 15.0  x : 2
+terminate index : 5  y : 7.75  x : 1
+ 
+ 
+goal test y : 60.0 x : 12
+ 
+naturalSelection index : 0  y : 60.0  x : 12
+naturalSelection index : 1  y : 57.75  x : 11
+naturalSelection index : 2  y : 33.75  x : 5
+naturalSelection index : 3  y : 28.0  x : 28
+naturalSelection index : 4  y : 15.0  x : 2
+naturalSelection index : 5  y : 7.75  x : 1
+ 
+crossOver index : 0  y : 60.0  x : 12
+crossOver index : 1  y : 57.75  x : 11
+crossOver index : 2  y : 33.75  x : 5
+crossOver index : 3  y : 28.0  x : 28
+crossOver index : 4  y : 15.0  x : 2
+crossOver index : 5  y : 7.75  x : 1
+ 
+mutation index : 0  y : 60.0  x : 13
+mutation index : 1  y : 57.75  x : 19
+mutation index : 2  y : 33.75  x : 5
+mutation index : 3  y : 28.0  x : 28
+mutation index : 4  y : 15.0  x : 2
+mutation index : 5  y : 7.75  x : 1
+ 
+repeat time : 2
+ 
+fitness index : 0  y : 61.75  x : 13
+fitness index : 1  y : 61.75  x : 19
+fitness index : 2  y : 33.75  x : 5
+fitness index : 3  y : 28.0  x : 28
+fitness index : 4  y : 15.0  x : 2
+fitness index : 5  y : 7.75  x : 1
+ 
+terminate index : 0  y : 61.75  x : 19
+terminate index : 1  y : 61.75  x : 13
+terminate index : 2  y : 33.75  x : 5
+terminate index : 3  y : 28.0  x : 28
+terminate index : 4  y : 15.0  x : 2
+terminate index : 5  y : 7.75  x : 1
+ 
+ 
+goal test y : 61.75 x : 19
+ 
+naturalSelection index : 0  y : 61.75  x : 13
+naturalSelection index : 1  y : 61.75  x : 19
+naturalSelection index : 2  y : 33.75  x : 5
+naturalSelection index : 3  y : 28.0  x : 28
+naturalSelection index : 4  y : 15.0  x : 2
+naturalSelection index : 5  y : 7.75  x : 1
+ 
+crossOver index : 0  y : 61.75  x : 13
+crossOver index : 1  y : 61.75  x : 19
+crossOver index : 2  y : 33.75  x : 5
+crossOver index : 3  y : 28.0  x : 28
+crossOver index : 4  y : 15.0  x : 2
+crossOver index : 5  y : 7.75  x : 1
+ 
+mutation index : 0  y : 61.75  x : 13
+mutation index : 1  y : 61.75  x : 27
+mutation index : 2  y : 33.75  x : 5
+mutation index : 3  y : 28.0  x : 28
+mutation index : 4  y : 15.0  x : 2
+mutation index : 5  y : 7.75  x : 9
+ 
+repeat time : 3
+ 
+fitness index : 0  y : 61.75  x : 13
+fitness index : 1  y : 33.75  x : 27
+fitness index : 2  y : 33.75  x : 5
+fitness index : 3  y : 28.0  x : 28
+fitness index : 4  y : 15.0  x : 2
+fitness index : 5  y : 51.75  x : 9
+ 
+terminate index : 0  y : 61.75  x : 13
+terminate index : 1  y : 51.75  x : 9
+terminate index : 2  y : 33.75  x : 5
+terminate index : 3  y : 33.75  x : 27
+terminate index : 4  y : 28.0  x : 28
+terminate index : 5  y : 15.0  x : 2
+ 
+ 
+goal test y : 61.75 x : 13
+ 
+naturalSelection index : 0  y : 61.75  x : 13
+naturalSelection index : 1  y : 51.75  x : 9
+naturalSelection index : 2  y : 33.75  x : 27
+naturalSelection index : 3  y : 33.75  x : 5
+naturalSelection index : 4  y : 28.0  x : 28
+naturalSelection index : 5  y : 15.0  x : 2
+ 
+crossOver index : 0  y : 61.75  x : 13
+crossOver index : 1  y : 51.75  x : 9
+crossOver index : 2  y : 33.75  x : 27
+crossOver index : 3  y : 33.75  x : 5
+crossOver index : 4  y : 28.0  x : 28
+crossOver index : 5  y : 15.0  x : 2
+ 
+mutation index : 0  y : 61.75  x : 29
+mutation index : 1  y : 51.75  x : 9
+mutation index : 2  y : 33.75  x : 11
+mutation index : 3  y : 33.75  x : 5
+mutation index : 4  y : 28.0  x : 29
+mutation index : 5  y : 15.0  x : 2
+ 
+repeat time : 4
+ 
+fitness index : 0  y : 21.75  x : 29
+fitness index : 1  y : 51.75  x : 9
+fitness index : 2  y : 57.75  x : 11
+fitness index : 3  y : 33.75  x : 5
+fitness index : 4  y : 21.75  x : 29
+fitness index : 5  y : 15.0  x : 2
+ 
+terminate index : 0  y : 57.75  x : 11
+terminate index : 1  y : 51.75  x : 9
+terminate index : 2  y : 33.75  x : 5
+terminate index : 3  y : 21.75  x : 29
+terminate index : 4  y : 21.75  x : 29
+terminate index : 5  y : 15.0  x : 2
+ 
+ 
+goal test y : 57.75 x : 11
+ 
+naturalSelection index : 0  y : 57.75  x : 11
+naturalSelection index : 1  y : 51.75  x : 9
+naturalSelection index : 2  y : 33.75  x : 5
+naturalSelection index : 3  y : 21.75  x : 29
+naturalSelection index : 4  y : 21.75  x : 29
+naturalSelection index : 5  y : 15.0  x : 2
+ 
+crossOver index : 0  y : 57.75  x : 11
+crossOver index : 1  y : 51.75  x : 9
+crossOver index : 2  y : 33.75  x : 5
+crossOver index : 3  y : 21.75  x : 29
+crossOver index : 4  y : 21.75  x : 29
+crossOver index : 5  y : 15.0  x : 2
+ 
+mutation index : 0  y : 57.75  x : 3
+mutation index : 1  y : 51.75  x : 9
+mutation index : 2  y : 33.75  x : 7
+mutation index : 3  y : 21.75  x : 15
+mutation index : 4  y : 21.75  x : 29
+mutation index : 5  y : 15.0  x : 10
+ 
+repeat time : 5
+ 
+fitness index : 0  y : 21.75  x : 3
+fitness index : 1  y : 51.75  x : 9
+fitness index : 2  y : 43.75  x : 7
+fitness index : 3  y : 63.75  x : 15
+fitness index : 4  y : 21.75  x : 29
+fitness index : 5  y : 55.0  x : 10
+ 
+terminate index : 0  y : 63.75  x : 15
+terminate index : 1  y : 55.0  x : 10
+terminate index : 2  y : 51.75  x : 9
+terminate index : 3  y : 43.75  x : 7
+terminate index : 4  y : 21.75  x : 29
+terminate index : 5  y : 21.75  x : 3
+ 
+ 
+goal test y : 63.75 x : 15
+ 
+naturalSelection index : 0  y : 63.75  x : 15
+naturalSelection index : 1  y : 55.0  x : 10
+naturalSelection index : 2  y : 51.75  x : 9
+naturalSelection index : 3  y : 43.75  x : 7
+naturalSelection index : 4  y : 21.75  x : 3
+naturalSelection index : 5  y : 21.75  x : 29
+ 
+crossOver index : 0  y : 63.75  x : 15
+crossOver index : 1  y : 55.0  x : 10
+crossOver index : 2  y : 51.75  x : 9
+crossOver index : 3  y : 43.75  x : 7
+crossOver index : 4  y : 21.75  x : 3
+crossOver index : 5  y : 21.75  x : 29
+ 
+mutation index : 0  y : 63.75  x : 15
+mutation index : 1  y : 55.0  x : 11
+mutation index : 2  y : 51.75  x : 9
+mutation index : 3  y : 43.75  x : 11
+mutation index : 4  y : 21.75  x : 7
+mutation index : 5  y : 21.75  x : 29
+ 
+repeat time : 6
+ 
+fitness index : 0  y : 63.75  x : 15
+fitness index : 1  y : 57.75  x : 11
+fitness index : 2  y : 51.75  x : 9
+fitness index : 3  y : 57.75  x : 11
+fitness index : 4  y : 43.75  x : 7
+fitness index : 5  y : 21.75  x : 29
+ 
+terminate index : 0  y : 63.75  x : 15
+terminate index : 1  y : 57.75  x : 11
+terminate index : 2  y : 57.75  x : 11
+terminate index : 3  y : 51.75  x : 9
+terminate index : 4  y : 43.75  x : 7
+terminate index : 5  y : 21.75  x : 29
+ 
+ 
+goal test y : 63.75 x : 15
+ 
+naturalSelection index : 0  y : 63.75  x : 15
+naturalSelection index : 1  y : 57.75  x : 11
+naturalSelection index : 2  y : 57.75  x : 11
+naturalSelection index : 3  y : 51.75  x : 9
+naturalSelection index : 4  y : 43.75  x : 7
+naturalSelection index : 5  y : 21.75  x : 29
+ 
+crossOver index : 0  y : 63.75  x : 15
+crossOver index : 1  y : 57.75  x : 11
+crossOver index : 2  y : 57.75  x : 11
+crossOver index : 3  y : 51.75  x : 9
+crossOver index : 4  y : 43.75  x : 7
+crossOver index : 5  y : 21.75  x : 29
+ 
+mutation index : 0  y : 63.75  x : 15
+mutation index : 1  y : 57.75  x : 11
+mutation index : 2  y : 57.75  x : 7
+mutation index : 3  y : 51.75  x : 14
+mutation index : 4  y : 43.75  x : 27
+mutation index : 5  y : 21.75  x : 29
+ 
+repeat time : 7
+ 
+fitness index : 0  y : 63.75  x : 15
+fitness index : 1  y : 57.75  x : 11
+fitness index : 2  y : 43.75  x : 7
+fitness index : 3  y : 63.0  x : 14
+fitness index : 4  y : 33.75  x : 27
+fitness index : 5  y : 21.75  x : 29
+ 
+terminate index : 0  y : 63.75  x : 15
+terminate index : 1  y : 63.0  x : 14
+terminate index : 2  y : 57.75  x : 11
+terminate index : 3  y : 43.75  x : 7
+terminate index : 4  y : 33.75  x : 27
+terminate index : 5  y : 21.75  x : 29
+ 
+ 
+goal test y : 63.75 x : 15
+ 
+naturalSelection index : 0  y : 63.75  x : 15
+naturalSelection index : 1  y : 63.0  x : 14
+naturalSelection index : 2  y : 57.75  x : 11
+naturalSelection index : 3  y : 43.75  x : 7
+naturalSelection index : 4  y : 33.75  x : 27
+naturalSelection index : 5  y : 21.75  x : 29
+ 
+crossOver index : 0  y : 63.75  x : 15
+crossOver index : 1  y : 63.0  x : 14
+crossOver index : 2  y : 57.75  x : 11
+crossOver index : 3  y : 43.75  x : 7
+crossOver index : 4  y : 33.75  x : 27
+crossOver index : 5  y : 21.75  x : 29
+ 
+mutation index : 0  y : 63.75  x : 15
+mutation index : 1  y : 63.0  x : 13
+mutation index : 2  y : 57.75  x : 9
+mutation index : 3  y : 43.75  x : 7
+mutation index : 4  y : 33.75  x : 27
+mutation index : 5  y : 21.75  x : 29
+ 
+repeat time : 8
+ 
+fitness index : 0  y : 63.75  x : 15
+fitness index : 1  y : 61.75  x : 13
+fitness index : 2  y : 51.75  x : 9
+fitness index : 3  y : 43.75  x : 7
+fitness index : 4  y : 33.75  x : 27
+fitness index : 5  y : 21.75  x : 29
+ 
+terminate index : 0  y : 63.75  x : 15
+terminate index : 1  y : 61.75  x : 13
+terminate index : 2  y : 51.75  x : 9
+terminate index : 3  y : 43.75  x : 7
+terminate index : 4  y : 33.75  x : 27
+terminate index : 5  y : 21.75  x : 29
+ 
+ 
+goal test y : 63.75 x : 15
+ 
+naturalSelection index : 0  y : 63.75  x : 15
+naturalSelection index : 1  y : 61.75  x : 13
+naturalSelection index : 2  y : 51.75  x : 9
+naturalSelection index : 3  y : 43.75  x : 7
+naturalSelection index : 4  y : 33.75  x : 27
+naturalSelection index : 5  y : 21.75  x : 29
+ 
+crossOver index : 0  y : 63.75  x : 15
+crossOver index : 1  y : 61.75  x : 13
+crossOver index : 2  y : 51.75  x : 9
+crossOver index : 3  y : 43.75  x : 7
+crossOver index : 4  y : 33.75  x : 27
+crossOver index : 5  y : 21.75  x : 29
+ 
+mutation index : 0  y : 63.75  x : 19
+mutation index : 1  y : 61.75  x : 13
+mutation index : 2  y : 51.75  x : 13
+mutation index : 3  y : 43.75  x : 7
+mutation index : 4  y : 33.75  x : 15
+mutation index : 5  y : 21.75  x : 30
+ 
+repeat time : 9
+ 
+fitness index : 0  y : 61.75  x : 19
+fitness index : 1  y : 61.75  x : 13
+fitness index : 2  y : 61.75  x : 13
+fitness index : 3  y : 43.75  x : 7
+fitness index : 4  y : 63.75  x : 15
+fitness index : 5  y : 15.0  x : 30
+ 
+terminate index : 0  y : 63.75  x : 15
+terminate index : 1  y : 61.75  x : 13
+terminate index : 2  y : 61.75  x : 13
+terminate index : 3  y : 61.75  x : 19
+terminate index : 4  y : 43.75  x : 7
+terminate index : 5  y : 15.0  x : 30
+ 
+ 
+goal test y : 63.75 x : 15
+ 
+naturalSelection index : 0  y : 63.75  x : 15
+naturalSelection index : 1  y : 61.75  x : 19
+naturalSelection index : 2  y : 61.75  x : 13
+naturalSelection index : 3  y : 61.75  x : 13
+naturalSelection index : 4  y : 43.75  x : 7
+naturalSelection index : 5  y : 15.0  x : 30
+ 
+crossOver index : 0  y : 63.75  x : 15
+crossOver index : 1  y : 61.75  x : 19
+crossOver index : 2  y : 61.75  x : 13
+crossOver index : 3  y : 61.75  x : 13
+crossOver index : 4  y : 43.75  x : 7
+crossOver index : 5  y : 15.0  x : 30
+ 
+mutation index : 0  y : 63.75  x : 7
+mutation index : 1  y : 61.75  x : 19
+mutation index : 2  y : 61.75  x : 13
+mutation index : 3  y : 61.75  x : 13
+mutation index : 4  y : 43.75  x : 6
+mutation index : 5  y : 15.0  x : 30
+ 
+repeat time : 10
+ 
+fitness index : 0  y : 43.75  x : 7
+fitness index : 1  y : 61.75  x : 19
+fitness index : 2  y : 61.75  x : 13
+fitness index : 3  y : 61.75  x : 13
+fitness index : 4  y : 39.0  x : 6
+fitness index : 5  y : 15.0  x : 30
+ 
+terminate index : 0  y : 61.75  x : 13
+terminate index : 1  y : 61.75  x : 13
+terminate index : 2  y : 61.75  x : 19
+terminate index : 3  y : 43.75  x : 7
+terminate index : 4  y : 39.0  x : 6
+terminate index : 5  y : 15.0  x : 30
+ 
+ 
+goal test y : 61.75 x : 13
+ 
+naturalSelection index : 0  y : 61.75  x : 19
+naturalSelection index : 1  y : 61.75  x : 13
+naturalSelection index : 2  y : 61.75  x : 13
+naturalSelection index : 3  y : 43.75  x : 7
+naturalSelection index : 4  y : 39.0  x : 6
+naturalSelection index : 5  y : 15.0  x : 30
+ 
+crossOver index : 0  y : 61.75  x : 19
+crossOver index : 1  y : 61.75  x : 13
+crossOver index : 2  y : 61.75  x : 13
+crossOver index : 3  y : 43.75  x : 7
+crossOver index : 4  y : 39.0  x : 6
+crossOver index : 5  y : 15.0  x : 30
+ 
+mutation index : 0  y : 61.75  x : 19
+mutation index : 1  y : 61.75  x : 13
+mutation index : 2  y : 61.75  x : 5
+mutation index : 3  y : 43.75  x : 7
+mutation index : 4  y : 39.0  x : 6
+mutation index : 5  y : 15.0  x : 30
+ 
+repeat time : 11
+ 
+fitness index : 0  y : 61.75  x : 19
+fitness index : 1  y : 61.75  x : 13
+fitness index : 2  y : 33.75  x : 5
+fitness index : 3  y : 43.75  x : 7
+fitness index : 4  y : 39.0  x : 6
+fitness index : 5  y : 15.0  x : 30
+ 
+terminate index : 0  y : 61.75  x : 13
+terminate index : 1  y : 61.75  x : 19
+terminate index : 2  y : 43.75  x : 7
+terminate index : 3  y : 39.0  x : 6
+terminate index : 4  y : 33.75  x : 5
+terminate index : 5  y : 15.0  x : 30
+ 
+ 
+goal test y : 61.75 x : 13
+ 
+naturalSelection index : 0  y : 61.75  x : 19
+naturalSelection index : 1  y : 61.75  x : 13
+naturalSelection index : 2  y : 43.75  x : 7
+naturalSelection index : 3  y : 39.0  x : 6
+naturalSelection index : 4  y : 33.75  x : 5
+naturalSelection index : 5  y : 15.0  x : 30
+ 
+crossOver index : 0  y : 61.75  x : 19
+crossOver index : 1  y : 61.75  x : 13
+crossOver index : 2  y : 43.75  x : 7
+crossOver index : 3  y : 39.0  x : 6
+crossOver index : 4  y : 33.75  x : 5
+crossOver index : 5  y : 15.0  x : 30
+ 
+mutation index : 0  y : 61.75  x : 3
+mutation index : 1  y : 61.75  x : 13
+mutation index : 2  y : 43.75  x : 3
+mutation index : 3  y : 39.0  x : 22
+mutation index : 4  y : 33.75  x : 5
+mutation index : 5  y : 15.0  x : 22
+ 
+repeat time : 12
+ 
+fitness index : 0  y : 21.75  x : 3
+fitness index : 1  y : 61.75  x : 13
+fitness index : 2  y : 21.75  x : 3
+fitness index : 3  y : 55.0  x : 22
+fitness index : 4  y : 33.75  x : 5
+fitness index : 5  y : 55.0  x : 22
+ 
+terminate index : 0  y : 61.75  x : 13
+terminate index : 1  y : 55.0  x : 22
+terminate index : 2  y : 55.0  x : 22
+terminate index : 3  y : 33.75  x : 5
+terminate index : 4  y : 21.75  x : 3
+terminate index : 5  y : 21.75  x : 3
+ 
+ 
+goal test y : 61.75 x : 13
+ 
+naturalSelection index : 0  y : 61.75  x : 13
+naturalSelection index : 1  y : 55.0  x : 22
+naturalSelection index : 2  y : 55.0  x : 22
+naturalSelection index : 3  y : 33.75  x : 5
+naturalSelection index : 4  y : 21.75  x : 3
+naturalSelection index : 5  y : 21.75  x : 3
+ 
+crossOver index : 0  y : 61.75  x : 13
+crossOver index : 1  y : 55.0  x : 22
+crossOver index : 2  y : 55.0  x : 22
+crossOver index : 3  y : 33.75  x : 5
+crossOver index : 4  y : 21.75  x : 3
+crossOver index : 5  y : 21.75  x : 3
+ 
+mutation index : 0  y : 61.75  x : 13
+mutation index : 1  y : 55.0  x : 22
+mutation index : 2  y : 55.0  x : 22
+mutation index : 3  y : 33.75  x : 5
+mutation index : 4  y : 21.75  x : 18
+mutation index : 5  y : 21.75  x : 3
+ 
+repeat time : 13
+ 
+fitness index : 0  y : 61.75  x : 13
+fitness index : 1  y : 55.0  x : 22
+fitness index : 2  y : 55.0  x : 22
+fitness index : 3  y : 33.75  x : 5
+fitness index : 4  y : 63.0  x : 18
+fitness index : 5  y : 21.75  x : 3
+ 
+terminate index : 0  y : 63.0  x : 18
+terminate index : 1  y : 61.75  x : 13
+terminate index : 2  y : 55.0  x : 22
+terminate index : 3  y : 55.0  x : 22
+terminate index : 4  y : 33.75  x : 5
+terminate index : 5  y : 21.75  x : 3
+ 
+ 
+goal test y : 63.0 x : 18
+ 
+naturalSelection index : 0  y : 63.0  x : 18
+naturalSelection index : 1  y : 61.75  x : 13
+naturalSelection index : 2  y : 55.0  x : 22
+naturalSelection index : 3  y : 55.0  x : 22
+naturalSelection index : 4  y : 33.75  x : 5
+naturalSelection index : 5  y : 21.75  x : 3
+ 
+crossOver index : 0  y : 63.0  x : 18
+crossOver index : 1  y : 61.75  x : 13
+crossOver index : 2  y : 55.0  x : 22
+crossOver index : 3  y : 55.0  x : 22
+crossOver index : 4  y : 33.75  x : 5
+crossOver index : 5  y : 21.75  x : 3
+ 
+mutation index : 0  y : 63.0  x : 18
+mutation index : 1  y : 61.75  x : 13
+mutation index : 2  y : 55.0  x : 22
+mutation index : 3  y : 55.0  x : 22
+mutation index : 4  y : 33.75  x : 5
+mutation index : 5  y : 21.75  x : 19
+ 
+repeat time : 14
+ 
+fitness index : 0  y : 63.0  x : 18
+fitness index : 1  y : 61.75  x : 13
+fitness index : 2  y : 55.0  x : 22
+fitness index : 3  y : 55.0  x : 22
+fitness index : 4  y : 33.75  x : 5
+fitness index : 5  y : 61.75  x : 19
+ 
+terminate index : 0  y : 63.0  x : 18
+terminate index : 1  y : 61.75  x : 19
+terminate index : 2  y : 61.75  x : 13
+terminate index : 3  y : 55.0  x : 22
+terminate index : 4  y : 55.0  x : 22
+terminate index : 5  y : 33.75  x : 5
+ 
+ 
+goal test y : 63.0 x : 18
+ 
+naturalSelection index : 0  y : 63.0  x : 18
+naturalSelection index : 1  y : 61.75  x : 13
+naturalSelection index : 2  y : 61.75  x : 19
+naturalSelection index : 3  y : 55.0  x : 22
+naturalSelection index : 4  y : 55.0  x : 22
+naturalSelection index : 5  y : 33.75  x : 5
+ 
+crossOver index : 0  y : 63.0  x : 18
+crossOver index : 1  y : 61.75  x : 13
+crossOver index : 2  y : 61.75  x : 19
+crossOver index : 3  y : 55.0  x : 22
+crossOver index : 4  y : 55.0  x : 22
+crossOver index : 5  y : 33.75  x : 5
+ 
+mutation index : 0  y : 63.0  x : 18
+mutation index : 1  y : 61.75  x : 13
+mutation index : 2  y : 61.75  x : 3
+mutation index : 3  y : 55.0  x : 7
+mutation index : 4  y : 55.0  x : 14
+mutation index : 5  y : 33.75  x : 5
+ 
+repeat time : 15
+ 
+fitness index : 0  y : 63.0  x : 18
+fitness index : 1  y : 61.75  x : 13
+fitness index : 2  y : 21.75  x : 3
+fitness index : 3  y : 43.75  x : 7
+fitness index : 4  y : 63.0  x : 14
+fitness index : 5  y : 33.75  x : 5
+ 
+terminate index : 0  y : 63.0  x : 14
+terminate index : 1  y : 63.0  x : 18
+terminate index : 2  y : 61.75  x : 13
+terminate index : 3  y : 43.75  x : 7
+terminate index : 4  y : 33.75  x : 5
+terminate index : 5  y : 21.75  x : 3
+ 
+ 
+goal test y : 63.0 x : 14
+ 
+naturalSelection index : 0  y : 63.0  x : 18
+naturalSelection index : 1  y : 63.0  x : 14
+naturalSelection index : 2  y : 61.75  x : 13
+naturalSelection index : 3  y : 43.75  x : 7
+naturalSelection index : 4  y : 33.75  x : 5
+naturalSelection index : 5  y : 21.75  x : 3
+ 
+crossOver index : 0  y : 63.0  x : 18
+crossOver index : 1  y : 63.0  x : 14
+crossOver index : 2  y : 61.75  x : 13
+crossOver index : 3  y : 43.75  x : 7
+crossOver index : 4  y : 33.75  x : 5
+crossOver index : 5  y : 21.75  x : 3
+ 
+mutation index : 0  y : 63.0  x : 18
+mutation index : 1  y : 63.0  x : 13
+mutation index : 2  y : 61.75  x : 13
+mutation index : 3  y : 43.75  x : 25
+mutation index : 4  y : 33.75  x : 25
+mutation index : 5  y : 21.75  x : 3
+ 
+repeat time : 16
+ 
+fitness index : 0  y : 63.0  x : 18
+fitness index : 1  y : 61.75  x : 13
+fitness index : 2  y : 61.75  x : 13
+fitness index : 3  y : 43.75  x : 25
+fitness index : 4  y : 43.75  x : 25
+fitness index : 5  y : 21.75  x : 3
+ 
+terminate index : 0  y : 63.0  x : 18
+terminate index : 1  y : 61.75  x : 13
+terminate index : 2  y : 61.75  x : 13
+terminate index : 3  y : 43.75  x : 25
+terminate index : 4  y : 43.75  x : 25
+terminate index : 5  y : 21.75  x : 3
+ 
+ 
+goal test y : 63.0 x : 18
+ 
+naturalSelection index : 0  y : 63.0  x : 18
+naturalSelection index : 1  y : 61.75  x : 13
+naturalSelection index : 2  y : 61.75  x : 13
+naturalSelection index : 3  y : 43.75  x : 25
+naturalSelection index : 4  y : 43.75  x : 25
+naturalSelection index : 5  y : 21.75  x : 3
+ 
+crossOver index : 0  y : 63.0  x : 18
+crossOver index : 1  y : 61.75  x : 13
+crossOver index : 2  y : 61.75  x : 13
+crossOver index : 3  y : 43.75  x : 25
+crossOver index : 4  y : 43.75  x : 25
+crossOver index : 5  y : 21.75  x : 3
+ 
+mutation index : 0  y : 63.0  x : 24
+mutation index : 1  y : 61.75  x : 29
+mutation index : 2  y : 61.75  x : 13
+mutation index : 3  y : 43.75  x : 11
+mutation index : 4  y : 43.75  x : 24
+mutation index : 5  y : 21.75  x : 3
+ 
+repeat time : 17
+ 
+fitness index : 0  y : 48.0  x : 24
+fitness index : 1  y : 21.75  x : 29
+fitness index : 2  y : 61.75  x : 13
+fitness index : 3  y : 57.75  x : 11
+fitness index : 4  y : 48.0  x : 24
+fitness index : 5  y : 21.75  x : 3
+ 
+terminate index : 0  y : 61.75  x : 13
+terminate index : 1  y : 57.75  x : 11
+terminate index : 2  y : 48.0  x : 24
+terminate index : 3  y : 48.0  x : 24
+terminate index : 4  y : 21.75  x : 3
+terminate index : 5  y : 21.75  x : 29
+ 
+ 
+goal test y : 61.75 x : 13
+ 

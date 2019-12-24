@@ -1,0 +1,134 @@
+pay attentoin fitness in crossOver and mutation is Fake because during this process fitness is not calculated 
+in reapeatCount : 14
+numRemainInNaturalSelection : 2
+repeatTime : 30
+ 
+ 
+ 
+repeat time : 0
+ 
+fitness index : 0  y : 51.75  x : 9
+fitness index : 1  y : 63.75  x : 17
+fitness index : 2  y : 28.0  x : 4
+fitness index : 3  y : 21.75  x : 3
+fitness index : 4  y : 48.0  x : 8
+fitness index : 5  y : 55.0  x : 10
+ 
+terminate index : 0  y : 63.75  x : 17
+terminate index : 1  y : 55.0  x : 10
+terminate index : 2  y : 51.75  x : 9
+terminate index : 3  y : 48.0  x : 8
+terminate index : 4  y : 28.0  x : 4
+terminate index : 5  y : 21.75  x : 3
+ 
+ 
+goal test y : 63.75 x : 17
+ 
+naturalSelection index : 0  y : 63.75  x : 17
+naturalSelection index : 1  y : 55.0  x : 10
+ 
+crossOver index : 0  y : 63.75  x : 17
+crossOver index : 1  y : 55.0  x : 10
+crossOver index : 2  y : 0.0  x : 26
+crossOver index : 3  y : 0.0  x : 17
+crossOver index : 4  y : 0.0  x : 26
+crossOver index : 5  y : 0.0  x : 26
+ 
+mutation index : 0  y : 63.75  x : 17
+mutation index : 1  y : 55.0  x : 14
+mutation index : 2  y : 0.0  x : 26
+mutation index : 3  y : 0.0  x : 17
+mutation index : 4  y : 0.0  x : 18
+mutation index : 5  y : 0.0  x : 26
+ 
+repeat time : 1
+ 
+fitness index : 0  y : 63.75  x : 17
+fitness index : 1  y : 63.0  x : 14
+fitness index : 2  y : 39.0  x : 26
+fitness index : 3  y : 63.75  x : 17
+fitness index : 4  y : 63.0  x : 18
+fitness index : 5  y : 39.0  x : 26
+ 
+terminate index : 0  y : 63.75  x : 17
+terminate index : 1  y : 63.75  x : 17
+terminate index : 2  y : 63.0  x : 18
+terminate index : 3  y : 63.0  x : 14
+terminate index : 4  y : 39.0  x : 26
+terminate index : 5  y : 39.0  x : 26
+ 
+ 
+goal test y : 63.75 x : 17
+ 
+naturalSelection index : 0  y : 63.75  x : 17
+naturalSelection index : 1  y : 63.75  x : 17
+ 
+crossOver index : 0  y : 63.75  x : 17
+crossOver index : 1  y : 63.75  x : 17
+crossOver index : 2  y : 0.0  x : 17
+crossOver index : 3  y : 0.0  x : 17
+crossOver index : 4  y : 0.0  x : 17
+crossOver index : 5  y : 0.0  x : 17
+ 
+mutation index : 0  y : 63.75  x : 21
+mutation index : 1  y : 63.75  x : 20
+mutation index : 2  y : 0.0  x : 17
+mutation index : 3  y : 0.0  x : 32
+mutation index : 4  y : 0.0  x : 17
+mutation index : 5  y : 0.0  x : 24
+ 
+repeat time : 2
+ 
+fitness index : 0  y : 57.75  x : 21
+fitness index : 1  y : 60.0  x : 20
+fitness index : 2  y : 63.75  x : 17
+fitness index : 3  y : 0.0  x : 32
+fitness index : 4  y : 63.75  x : 17
+fitness index : 5  y : 48.0  x : 24
+ 
+terminate index : 0  y : 63.75  x : 17
+terminate index : 1  y : 63.75  x : 17
+terminate index : 2  y : 60.0  x : 20
+terminate index : 3  y : 57.75  x : 21
+terminate index : 4  y : 48.0  x : 24
+terminate index : 5  y : 0.0  x : 32
+ 
+ 
+goal test y : 63.75 x : 17
+ 
+naturalSelection index : 0  y : 63.75  x : 17
+naturalSelection index : 1  y : 63.75  x : 17
+ 
+crossOver index : 0  y : 63.75  x : 17
+crossOver index : 1  y : 63.75  x : 17
+crossOver index : 2  y : 0.0  x : 17
+crossOver index : 3  y : 0.0  x : 17
+crossOver index : 4  y : 0.0  x : 17
+crossOver index : 5  y : 0.0  x : 17
+ 
+mutation index : 0  y : 63.75  x : 18
+mutation index : 1  y : 63.75  x : 21
+mutation index : 2  y : 0.0  x : 17
+mutation index : 3  y : 0.0  x : 5
+mutation index : 4  y : 0.0  x : 16
+mutation index : 5  y : 0.0  x : 17
+ 
+repeat time : 3
+ 
+fitness index : 0  y : 63.0  x : 18
+fitness index : 1  y : 57.75  x : 21
+fitness index : 2  y : 63.75  x : 17
+fitness index : 3  y : 33.75  x : 5
+fitness index : 4  y : 64.0  x : 16
+fitness index : 5  y : 63.75  x : 17
+ 
+terminate index : 0  y : 64.0  x : 16
+terminate index : 1  y : 63.75  x : 17
+terminate index : 2  y : 63.75  x : 17
+terminate index : 3  y : 63.0  x : 18
+terminate index : 4  y : 57.75  x : 21
+terminate index : 5  y : 33.75  x : 5
+ 
+ 
+goal test y : 64.0 x : 16
+ 

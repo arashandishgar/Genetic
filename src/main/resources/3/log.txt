@@ -1,0 +1,26 @@
+pay attentoin fitness in crossOver and mutation is Fake because during this process fitness is not calculated 
+in reapeatCount : 3
+numRemainInNaturalSelection : 2
+repeatTime : 30
+ 
+ 
+ 
+repeat time : 0
+ 
+fitness index : 0  y : 7.75  x : 31
+fitness index : 1  y : 63.75  x : 15
+fitness index : 2  y : 51.75  x : 23
+fitness index : 3  y : 0.0  x : 32
+fitness index : 4  y : 64.0  x : 16
+fitness index : 5  y : 33.75  x : 27
+ 
+terminate index : 0  y : 64.0  x : 16
+terminate index : 1  y : 63.75  x : 15
+terminate index : 2  y : 51.75  x : 23
+terminate index : 3  y : 33.75  x : 27
+terminate index : 4  y : 7.75  x : 31
+terminate index : 5  y : 0.0  x : 32
+ 
+ 
+goal test y : 64.0 x : 16
+ 

@@ -1,0 +1,102 @@
+pay attentoin fitness in crossOver and mutation is Fake because during this process fitness is not calculated 
+in reapeatCount : 19
+numRemainInNaturalSelection : 4
+repeatTime : 30
+ 
+ 
+ 
+repeat time : 0
+ 
+fitness index : 0  y : 21.75  x : 3
+fitness index : 1  y : 43.75  x : 25
+fitness index : 2  y : 0.0  x : 32
+fitness index : 3  y : 28.0  x : 4
+fitness index : 4  y : 63.75  x : 17
+fitness index : 5  y : 63.75  x : 15
+ 
+terminate index : 0  y : 63.75  x : 15
+terminate index : 1  y : 63.75  x : 17
+terminate index : 2  y : 43.75  x : 25
+terminate index : 3  y : 28.0  x : 4
+terminate index : 4  y : 21.75  x : 3
+terminate index : 5  y : 0.0  x : 32
+ 
+ 
+goal test y : 63.75 x : 15
+ 
+naturalSelection index : 0  y : 63.75  x : 17
+naturalSelection index : 1  y : 63.75  x : 15
+naturalSelection index : 2  y : 43.75  x : 25
+naturalSelection index : 3  y : 28.0  x : 4
+ 
+crossOver index : 0  y : 63.75  x : 17
+crossOver index : 1  y : 63.75  x : 15
+crossOver index : 2  y : 43.75  x : 25
+crossOver index : 3  y : 28.0  x : 4
+crossOver index : 4  y : 0.0  x : 31
+crossOver index : 5  y : 0.0  x : 7
+ 
+mutation index : 0  y : 63.75  x : 17
+mutation index : 1  y : 63.75  x : 15
+mutation index : 2  y : 43.75  x : 28
+mutation index : 3  y : 28.0  x : 12
+mutation index : 4  y : 0.0  x : 31
+mutation index : 5  y : 0.0  x : 7
+ 
+repeat time : 1
+ 
+fitness index : 0  y : 63.75  x : 17
+fitness index : 1  y : 63.75  x : 15
+fitness index : 2  y : 28.0  x : 28
+fitness index : 3  y : 60.0  x : 12
+fitness index : 4  y : 7.75  x : 31
+fitness index : 5  y : 43.75  x : 7
+ 
+terminate index : 0  y : 63.75  x : 15
+terminate index : 1  y : 63.75  x : 17
+terminate index : 2  y : 60.0  x : 12
+terminate index : 3  y : 43.75  x : 7
+terminate index : 4  y : 28.0  x : 28
+terminate index : 5  y : 7.75  x : 31
+ 
+ 
+goal test y : 63.75 x : 15
+ 
+naturalSelection index : 0  y : 63.75  x : 17
+naturalSelection index : 1  y : 63.75  x : 15
+naturalSelection index : 2  y : 60.0  x : 12
+naturalSelection index : 3  y : 43.75  x : 7
+ 
+crossOver index : 0  y : 63.75  x : 17
+crossOver index : 1  y : 63.75  x : 15
+crossOver index : 2  y : 60.0  x : 12
+crossOver index : 3  y : 43.75  x : 7
+crossOver index : 4  y : 0.0  x : 16
+crossOver index : 5  y : 0.0  x : 8
+ 
+mutation index : 0  y : 63.75  x : 13
+mutation index : 1  y : 63.75  x : 7
+mutation index : 2  y : 60.0  x : 12
+mutation index : 3  y : 43.75  x : 21
+mutation index : 4  y : 0.0  x : 16
+mutation index : 5  y : 0.0  x : 8
+ 
+repeat time : 2
+ 
+fitness index : 0  y : 61.75  x : 13
+fitness index : 1  y : 43.75  x : 7
+fitness index : 2  y : 60.0  x : 12
+fitness index : 3  y : 57.75  x : 21
+fitness index : 4  y : 64.0  x : 16
+fitness index : 5  y : 48.0  x : 8
+ 
+terminate index : 0  y : 64.0  x : 16
+terminate index : 1  y : 61.75  x : 13
+terminate index : 2  y : 60.0  x : 12
+terminate index : 3  y : 57.75  x : 21
+terminate index : 4  y : 48.0  x : 8
+terminate index : 5  y : 43.75  x : 7
+ 
+ 
+goal test y : 64.0 x : 16
+ 
